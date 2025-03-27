@@ -1,3 +1,4 @@
+package view;
 /**
  * Gestion de la boule
  *

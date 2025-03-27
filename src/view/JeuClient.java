@@ -1,3 +1,4 @@
+package view;
 /**
  * Gestion du jeu côté client
  *

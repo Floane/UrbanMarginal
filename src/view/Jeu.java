@@ -1,3 +1,4 @@
+package view;
 /**
  * Informations et méthodes communes aux jeux client et serveur
  *

@@ -1,4 +1,4 @@
-package view;
+package modele;
 /**
  * Gestion des joueurs
  *
